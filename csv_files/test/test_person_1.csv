@@ -1,0 +1,11 @@
+case_id,birth_259D,birthdate_87D,childnum_185L,contaddr_district_15M,contaddr_matchlist_1032L,contaddr_smempladdr_334L,contaddr_zipcode_807M,education_927M,empl_employedfrom_271D,empl_employedtotal_800L,empl_industry_691L,empladdr_district_926M,empladdr_zipcode_114M,familystate_447L,gender_992L,housetype_905L,housingtype_772L,incometype_1044T,isreference_387L,language1_981M,mainoccupationinc_384A,maritalst_703L,num_group1,personindex_1023L,persontype_1072L,persontype_792L,registaddr_district_1083M,registaddr_zipcode_184M,relationshiptoclient_415T,relationshiptoclient_642T,remitter_829L,role_1084L,role_993L,safeguarantyflag_411L,sex_738L,type_25L
+57543,1996-08-01,,,P107_30_170,False,False,P144_138_111,P97_36_170,2018-02-15,MORE_ONE,OTHER,P16_81_96,P144_138_111,MARRIED,,,,EMPLOYED,,P209_127_106,36000.0,,0,0.0,1.0,1.0,P107_30_170,P144_138_111,,,,CL,,False,M,PRIMARY_MOBILE
+57543,,,,a55475b1,,,a55475b1,a55475b1,,,,a55475b1,a55475b1,,,,,,,a55475b1,,,1,1.0,1.0,5.0,a55475b1,a55475b1,OTHER,,False,EM,,,,PHONE
+57543,,,,a55475b1,,,a55475b1,a55475b1,,,,a55475b1,a55475b1,,,,,,,a55475b1,,,2,,5.0,,a55475b1,a55475b1,,OTHER,,PE,,,,PHONE
+57549,1992-03-01,,,P7_110_89,False,False,P166_45_172,P97_36_170,2019-05-04,MORE_ONE,OTHER,P7_110_89,P166_45_172,SINGLE,,,,EMPLOYED,,P10_39_147,15000.0,,0,0.0,1.0,1.0,P7_110_89,P166_45_172,,,,EM,,False,M,PRIMARY_MOBILE
+57549,,,,a55475b1,,,a55475b1,a55475b1,,,,a55475b1,a55475b1,,,,,,,a55475b1,,,1,1.0,1.0,5.0,a55475b1,a55475b1,SIBLING,,False,EM,,,,ALTERNATIVE_PHONE
+57549,,,,a55475b1,,,a55475b1,a55475b1,,,,a55475b1,a55475b1,,,,,,,a55475b1,,,2,,1.0,,a55475b1,a55475b1,,,,CL,,,,PRIMARY_MOBILE
+57549,,,,a55475b1,,,a55475b1,a55475b1,,,,a55475b1,a55475b1,,,,,,,a55475b1,,,3,,5.0,,a55475b1,a55475b1,,SIBLING,,PE,,,,PHONE
+57551,1990-08-01,,,P158_121_167,False,False,P64_108_184,P97_36_170,2019-01-15,MORE_FIVE,OTHER,P109_39_170,P144_138_111,MARRIED,,,,EMPLOYED,,P10_39_147,24000.0,,0,0.0,1.0,1.0,P158_121_167,P64_108_184,,,,CL,,False,M,PRIMARY_MOBILE
+57551,,,,a55475b1,,,a55475b1,a55475b1,,,,a55475b1,a55475b1,,,,,,,a55475b1,,,1,1.0,1.0,5.0,a55475b1,a55475b1,FRIEND,,False,EM,,,,PHONE
+57551,,,,a55475b1,,,a55475b1,a55475b1,,,,a55475b1,a55475b1,,,,,,,a55475b1,,,2,,5.0,,a55475b1,a55475b1,,FRIEND,,PE,,,,PHONE
